@@ -1,2 +1,3 @@
 # Samples
-Code samples from siakabaro.com
+
+Code samples from https://www.siakabaro.com
