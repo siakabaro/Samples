@@ -1,6 +1,6 @@
 # Generate RSA JWK in .NET
 
-Sample code for article How to generate an RSA JSON Web Key (JWK) in .NET  on https://www.siakabaro.com.
+Sample code for article [How to generate an RSA JSON Web Key (JWK) in .NET](https://www.siakabaro.com/how-to-generate-an-rsa-json-web-key-jwk-in-net/)  on https://www.siakabaro.com.
 
 Properties of the source code:
 
